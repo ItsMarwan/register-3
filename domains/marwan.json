@@ -3,18 +3,14 @@
     "owner": {
         "username": "itsmarwan",
         "email": "marwan.skins453@gmail.com"
-    },
-    "target": {
-        "TXT": {
-            "name": "_vercel.marwan",
-            "value": "vc-domain-verify=marwan.is-a-good.dev,658500234996e363f4fd"
-        },
-        "A": {
-            "name": "marwan",
-            "value": [
-                "216.198.79.1"
-            ]
+      },
+    
+      "target": {
+        "CNAME": {
+          "name": "itsmarwan", 
+          "value": "itsmarwan.github.io"
         }
-    },
-    "proxied": false
+      },
+    
+      "proxied": false
 }
